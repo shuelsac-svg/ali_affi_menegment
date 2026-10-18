@@ -1,0 +1,7 @@
+.local-config.json
+.env
+.env.*
+!.env.example
+node_modules/
+_site/
+supabase/.temp/
